@@ -1,2 +1,3 @@
 # Hello-World
-Print hello world
+Practice for git and github
+A Program that prints hello world to the console
